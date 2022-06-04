@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Arch Example</string>
+    <string name="title">Title</string>
+    <string name="_1">1</string>
+    <string name="description">Description</string>
+    <string name="btn">btn</string>
+    <string name="priority">Priority:</string>
+    <string name="save">Save</string>
+    <string name="add_note">Add Note</string>
+    <string name="required">Required</string>
+    <string name="NoteNotSaved">Note not Saved</string>
+    <string name="delete_all_notes">Delete all Notes</string>
+    <string name="no_data">there is no data yet</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="note_cannot_be_updated">Note can\'t be updated</string>
+    <string name="note_updatef">note Updated</string>
+    <string name="note">Note</string>
+</resources>
